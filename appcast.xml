@@ -6,6 +6,14 @@
         <description>Most recent changes for newOS.</description>
         <language>en</language>
         <item>
+            <title>1.1.21</title>
+            <pubDate>Thu, 14 May 2026 15:48:28 +0000</pubDate>
+            <sparkle:version>1733</sparkle:version>
+            <sparkle:shortVersionString>1.1.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Newkamoto-Enterprises/downloadnewos/releases/download/v1.1.21/newOS-v1.1.21.dmg" length="121241736" type="application/octet-stream" sparkle:edSignature="7frNAo1nxjyNyRoG2TTfNLrmBuzc8+DftqoYCvo2Uw8A5HPKdnQ0b+22i8txZSR2yr+nIcAE73HR/1xucZ2JCg=="/>
+        </item>
+        <item>
             <title>1.1.18</title>
             <pubDate>Tue, 12 May 2026 17:56:55 +0000</pubDate>
             <sparkle:version>1637</sparkle:version>

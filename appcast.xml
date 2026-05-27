@@ -1,17 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>gOS Updates</title>
         <link>https://gosdotcomputer.github.io/downloadgos/</link>
         <description>Most recent changes for gOS.</description>
         <language>en</language>
         <item>
+            <title>1.1.27</title>
+            <pubDate>Wed, 27 May 2026 11:35:48 GMT</pubDate>
+            <sparkle:version>2538</sparkle:version>
+            <sparkle:shortVersionString>1.1.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/gosdotcomputer/downloadgos/releases/download/v1.1.27/gOS-v1.1.27.dmg" length="132711945" type="application/octet-stream" sparkle:edSignature="QjtM85Np7REoeZr1lCjZ2S3jjO2xUejAk0jhDheiCaoldsyOo+DNG4aBqHjJl/O0AchzobORy2prB63Tm4EqDg==" />
+        </item>
+        <item>
             <title>1.1.23</title>
             <pubDate>Wed, 27 May 2026 08:31:28 GMT</pubDate>
             <sparkle:version>2533</sparkle:version>
             <sparkle:shortVersionString>1.1.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/gosdotcomputer/downloadgos/releases/download/v1.1.23/gOS-v1.1.23.dmg" length="132716928" type="application/octet-stream" sparkle:edSignature="F4fSCG3X+BvKV3/yNhO90v0n5I4aCAEPmZRSOIMGl4HeK3O42YFtM5HFIJwh48qS9Nezuk5XoNTSl+wF7xzEDQ=="/>
+            <enclosure url="https://github.com/gosdotcomputer/downloadgos/releases/download/v1.1.23/gOS-v1.1.23.dmg" length="132716928" type="application/octet-stream" sparkle:edSignature="F4fSCG3X+BvKV3/yNhO90v0n5I4aCAEPmZRSOIMGl4HeK3O42YFtM5HFIJwh48qS9Nezuk5XoNTSl+wF7xzEDQ==" />
         </item>
         <item>
             <title>1.1.22</title>
@@ -19,7 +27,7 @@
             <sparkle:version>1801</sparkle:version>
             <sparkle:shortVersionString>1.1.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Newkamoto-Enterprises/downloadnewos/releases/download/v1.1.22/newOS-v1.1.22.dmg" length="131427840" type="application/octet-stream" sparkle:edSignature="qgNCFVMURxDYgTghu/LhArjLcKRlQ9u5/IO6CSKHvT5dhkPEdkVJoJS/KAHOFa8di4QLJ/cJ8NnA/AtU73HyAA=="/>
+            <enclosure url="https://github.com/Newkamoto-Enterprises/downloadnewos/releases/download/v1.1.22/newOS-v1.1.22.dmg" length="131427840" type="application/octet-stream" sparkle:edSignature="qgNCFVMURxDYgTghu/LhArjLcKRlQ9u5/IO6CSKHvT5dhkPEdkVJoJS/KAHOFa8di4QLJ/cJ8NnA/AtU73HyAA==" />
         </item>
         <item>
             <title>1.1.21</title>
@@ -27,7 +35,7 @@
             <sparkle:version>1733</sparkle:version>
             <sparkle:shortVersionString>1.1.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Newkamoto-Enterprises/downloadnewos/releases/download/v1.1.21/newOS-v1.1.21.dmg" length="121241736" type="application/octet-stream" sparkle:edSignature="7frNAo1nxjyNyRoG2TTfNLrmBuzc8+DftqoYCvo2Uw8A5HPKdnQ0b+22i8txZSR2yr+nIcAE73HR/1xucZ2JCg=="/>
+            <enclosure url="https://github.com/Newkamoto-Enterprises/downloadnewos/releases/download/v1.1.21/newOS-v1.1.21.dmg" length="121241736" type="application/octet-stream" sparkle:edSignature="7frNAo1nxjyNyRoG2TTfNLrmBuzc8+DftqoYCvo2Uw8A5HPKdnQ0b+22i8txZSR2yr+nIcAE73HR/1xucZ2JCg==" />
         </item>
         <item>
             <title>1.1.18</title>
@@ -35,7 +43,7 @@
             <sparkle:version>1637</sparkle:version>
             <sparkle:shortVersionString>1.1.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Newkamoto-Enterprises/downloadnewos/releases/download/v1.1.18/newOS-v1.1.18.dmg" length="85709075" type="application/octet-stream" sparkle:edSignature="3Xf9n0X8sybPAXTtz7DudcTBWiDYv3Gf2doLRiE0sTB7T8D/iT1PzKUn7gAuq8g5DwZrhedXe2q8e7KZ3Gx2CA=="/>
+            <enclosure url="https://github.com/Newkamoto-Enterprises/downloadnewos/releases/download/v1.1.18/newOS-v1.1.18.dmg" length="85709075" type="application/octet-stream" sparkle:edSignature="3Xf9n0X8sybPAXTtz7DudcTBWiDYv3Gf2doLRiE0sTB7T8D/iT1PzKUn7gAuq8g5DwZrhedXe2q8e7KZ3Gx2CA==" />
         </item>
         <item>
             <title>1.1.17</title>
@@ -43,14 +51,14 @@
             <sparkle:version>1633</sparkle:version>
             <sparkle:shortVersionString>1.1.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Newkamoto-Enterprises/downloadnewos/releases/download/v1.1.17/newOS-v1.1.17.dmg" length="85709468" type="application/octet-stream" sparkle:edSignature="efXgTvxl05ydt7O9vy+XhZhyvGCD4BTLed5rJj4GXJPL4r1YSDYiZKaCyALTig9D1jPeACAb1ualN0nrmVoRBg=="/>
+            <enclosure url="https://github.com/Newkamoto-Enterprises/downloadnewos/releases/download/v1.1.17/newOS-v1.1.17.dmg" length="85709468" type="application/octet-stream" sparkle:edSignature="efXgTvxl05ydt7O9vy+XhZhyvGCD4BTLed5rJj4GXJPL4r1YSDYiZKaCyALTig9D1jPeACAb1ualN0nrmVoRBg==" />
         </item>
         <item>
             <title>Version 1.0</title>
             <pubDate>Thu, 10 Apr 2026 18:13:36 +0000</pubDate>
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <enclosure url="https://github.com/Newkamoto-Enterprises/downloadnewos/releases/download/v1.0/newOS-v1.0.dmg" length="56152926" type="application/octet-stream"/>
+            <enclosure url="https://github.com/Newkamoto-Enterprises/downloadnewos/releases/download/v1.0/newOS-v1.0.dmg" length="56152926" type="application/octet-stream" />
         </item>
     </channel>
 </rss>

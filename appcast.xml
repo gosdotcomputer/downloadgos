@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
-        <title>newOS Updates</title>
-        <link>https://github.com/Newkamoto-Enterprises/downloadnewos</link>
-        <description>Most recent changes for newOS.</description>
+        <title>gOS Updates</title>
+        <link>https://gosdotcomputer.github.io/downloadgos/</link>
+        <description>Most recent changes for gOS.</description>
         <language>en</language>
+        <item>
+            <title>1.1.23</title>
+            <pubDate>Wed, 27 May 2026 08:31:28 GMT</pubDate>
+            <sparkle:version>2533</sparkle:version>
+            <sparkle:shortVersionString>1.1.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/gosdotcomputer/downloadgos/releases/download/v1.1.23/gOS-v1.1.23.dmg" length="132716928" type="application/octet-stream" sparkle:edSignature="F4fSCG3X+BvKV3/yNhO90v0n5I4aCAEPmZRSOIMGl4HeK3O42YFtM5HFIJwh48qS9Nezuk5XoNTSl+wF7xzEDQ=="/>
+        </item>
         <item>
             <title>1.1.22</title>
             <pubDate>Fri, 15 May 2026 10:11:53 +0200</pubDate>

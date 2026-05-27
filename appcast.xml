@@ -6,6 +6,14 @@
         <description>Most recent changes for gOS.</description>
         <language>en</language>
         <item>
+            <title>1.1.28</title>
+            <pubDate>Wed, 27 May 2026 15:56:00 GMT</pubDate>
+            <sparkle:version>2539</sparkle:version>
+            <sparkle:shortVersionString>1.1.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/gosdotcomputer/downloadgos/releases/download/v1.1.28/gOS-v1.1.28.dmg" length="132711386" type="application/octet-stream" sparkle:edSignature="Uzod8u5QkwPBAhgeAVRs3rbRccHvjyjNO0F9UP2SAGzAD+1zMzzFI6GsomPirCboFVZ1lZyOS0V0JS2V0ztOBg==" />
+        </item>
+        <item>
             <title>1.1.27</title>
             <pubDate>Wed, 27 May 2026 11:35:48 GMT</pubDate>
             <sparkle:version>2538</sparkle:version>
